@@ -41,7 +41,7 @@ Step 5: Run simulation to get the output.
 Step 6: Open in RTL viewers to get RTL diagram output. */
 
 **PROGRAM**
-
+```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:KEERTHIKA M P RegisterNumber:212223240071
 module TFLIPFLOPPOSEDGE( input clk, rst_n, input t,
 output reg q,
@@ -60,7 +60,7 @@ end
 assign q_bar = ~q;
 endmodule
 */
-
+```
 **RTL LOGIC FOR FLIPFLOPS**
 ![325666891-2d5aac8c-03f4-4950-a322-67980dc3b7c6](https://github.com/Keerthika23013559/T-FLIPFLOP-POSEDGE/assets/162658262/a53788ef-1f48-404f-9c35-6bbe01660a91)
 
